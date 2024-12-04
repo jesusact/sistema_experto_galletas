@@ -1,5 +1,7 @@
 # 👨🏻‍💻 Control difuso de un horno con un Sistema Experto implementado en CLIPS
+
 Realizado por Jesús Aceituno Valero y Jesús Ruíz Toledo
+
 ---
 
 ## ✍🏻 Resumen  
