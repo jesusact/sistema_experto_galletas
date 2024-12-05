@@ -22,9 +22,10 @@ Este proyecto presenta un sistema que ajusta automáticamente la temperatura del
 ### 🎯 Índice Cromático:  
 - **Un poco crudas:** (1/4, 0.5/6, 0/7)  
 - **Medio hechas:** (0/3, 1/5, 1/6, 0/8)  
-- **Doraditas:** (0/5, 1/7)
+- **Doraditas:** (0/5, 1/7, 0/10)
+- **Chamuscadas:** (0/7, 1,10)
 
-![Captura de pantalla 2024-12-04 231341](https://github.com/user-attachments/assets/ca6a07e6-d52f-419a-a719-5bad8c4393ec)
+![image](https://github.com/user-attachments/assets/6728e370-c92b-4b16-b0bc-f4ce16fb123c)
 
 
 ### 🌡️ Temperatura del Horno (°C):  
